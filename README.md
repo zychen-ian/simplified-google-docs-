@@ -1,3 +1,3 @@
-# simplified-google-docs-
+# simplified-google-docs
 
 Using KnockoutJS
